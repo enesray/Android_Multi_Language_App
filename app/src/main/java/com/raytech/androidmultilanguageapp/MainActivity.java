@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void BtnRussian(View view) {
         // Rusça diline geçiş yapılır
-        ChangeLanguage("en");
+        ChangeLanguage("ru");
         // Aktivite yeniden oluşturulur, böylece dil değişikliği görsel olarakta gözükür.
         recreate();
     }
